@@ -1,0 +1,22 @@
+Mês;Ano;Loja;Plataforma;Produto;Quantidade;Preço Unitário
+Outubro;2023;Loja C;Loja Física;Vestido;1;166.00
+Maio;2023;Loja B;Loja Física;Roupa;3;890.55
+Setembro;2023;Loja C;Internet;Calçado;1;928.51
+Fevereiro;2020;Loja A;Internet;Vestido;3;290.39
+Abril;2022;Loja C;Internet;Calçado;3;884.45
+Setembro;2023;Loja D;Loja Física;Bone;1;335.30
+Dezembro;2020;Loja C;Internet;Bone;3;718.81
+Setembro;2020;Loja B;Loja Física;Roupa;3;29.38
+Junho;2021;Loja A;Loja Física;Roupa;2;379.98
+Dezembro;2023;Loja A;Loja Física;Vestido;2;835.76
+Outubro;2020;Loja C;Internet;Bone;1;296.75
+Agosto;2023;Loja D;Loja Física;Roupa;4;109.64
+Outubro;2021;Loja D;Internet;Bone;3;934.14
+Julho;2023;Loja B;Internet;Vestido;1;682.80
+Abril;2021;Loja B;Internet;Bone;1;228.56
+Agosto;2021;Loja B;Internet;Roupa;3;831.00
+Março;2023;Loja A;Loja Física;Calçado;1;204.55
+Janeiro;2021;Loja C;Internet;Roupa;1;37.36
+Março;2020;Loja B;Loja Física;Bone;5;711.60
+Janeiro;2021;Loja B;Loja Física;Roupa;1;93.60
+fim;0;fim;fim;fim;0;0
